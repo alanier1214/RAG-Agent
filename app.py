@@ -17,7 +17,7 @@ from sentence_transformers import SentenceTransformer
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
 APP_TITLE = "Local Agentic RAG + Web Search"
-DEFAULT_LLM = "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B"
+DEFAULT_LLM = "Qwen/Qwen2.5-0.5B-Instruct"
 DEFAULT_EMBED_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 CHUNK_SIZE = 900
 CHUNK_OVERLAP = 150
