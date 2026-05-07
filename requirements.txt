@@ -1,5 +1,5 @@
 streamlit>=1.37
-torch>=2.2
+torchvision>=2.2
 transformers>=4.45
 accelerate>=0.34
 sentence-transformers>=3.0
