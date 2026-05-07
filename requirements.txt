@@ -1,0 +1,12 @@
+streamlit>=1.37
+torch>=2.2
+transformers>=4.45
+accelerate>=0.34
+sentence-transformers>=3.0
+faiss-cpu>=1.8
+pypdf>=4.3
+python-docx>=1.1
+numpy>=1.26
+requests>=2.32
+beautifulsoup4>=4.12
+ddgs>=9.0.5
