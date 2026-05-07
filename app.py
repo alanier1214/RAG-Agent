@@ -8,6 +8,7 @@ import numpy as np
 import requests
 import streamlit as st
 import torch
+import torchvision
 from bs4 import BeautifulSoup
 from ddgs import DDGS
 from docx import Document
